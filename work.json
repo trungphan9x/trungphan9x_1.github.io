@@ -21,8 +21,7 @@
     "location": "INDIA",
     "position": "ASSOCIATE SOFTWARE ENGINEER",
     "duration": "Aug 2015 – Oct 2016",
-    "description": "Developed software applications using Java.\nModified existing broker back-office system by adding new functionalities and resolving
-issues in the system."
+    "description": "Modifying existing data security software by adding new functionalities and resolving issues in the system.\nLanguages used include Java 8 and AngularJS"
   },
   {
     "id": "4",
@@ -38,7 +37,6 @@ issues in the system."
     "location": "SINGAPORE",
     "position": "SOFTWARE ENGINEER",
     "duration": "May 2018 - Present",
-    "description": "Four weeks’ training on Android Application Development\nDeveloped Scientific Calculator application with background services like Media Player and
-a Wallpaper changing service."
+    "description": "Four weeks’ training on Android Application Development\nDeveloped Scientific Calculator application with background services like Media Player and a Wallpaper changing service...."
   }
 ]
