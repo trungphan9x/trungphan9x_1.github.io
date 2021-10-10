@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "companyName": "NEXTLABS INTERNATIONAL PTE. LTD",
+    "location": "SINGAPORE",
+    "position": "SOFTWARE ENGINEER",
+    "duration": "May 2018 - Present",
+    "description": "Modifying existing data security software by adding new functionalities and resolving issues in the system.\nLanguages used include Java 8 and AngularJS 1.x."
+  },
+  {
+    "id": "2",
+    "companyName": "SIMPLUS PTE. LTD",
+    "location": "SINGAPORE",
+    "position": "PART-TIME MOBILE DEVELOPER",
+    "duration": "Dec 2017 - Mar 2018",
+    "description": "Maintenance and enhancement of native iOS applications.\nLanguages used include Objective-C and Swift 3."
+  },
+  {
+    "id": "3",
+    "companyName": "NOMURA RESEARCH INSTITUTE, FINANCIAL TECHNOLOGIES PVT. LTD.",
+    "location": "INDIA",
+    "position": "ASSOCIATE SOFTWARE ENGINEER",
+    "duration": "Aug 2015 – Oct 2016",
+    "description": "Developed software applications using Java.\nModified existing broker back-office system by adding new functionalities and resolving
+issues in the system."
+  },
+  {
+    "id": "4",
+    "companyName": "TATA CONSULTANCY SERVICES",
+    "location": "INDIA",
+    "position": "TRAINEE",
+    "duration": "Jun 2013 - Jun 2013",
+    "description": "Six weeks' summer internship during graduation.\nDeveloped RESTful Web Service for Student Management System."
+  },
+  {
+    "id": "5",
+    "companyName": "HEWLETT PACKARD EDUCATION SERVICES, INDIA",
+    "location": "SINGAPORE",
+    "position": "SOFTWARE ENGINEER",
+    "duration": "May 2018 - Present",
+    "description": "Four weeks’ training on Android Application Development\nDeveloped Scientific Calculator application with background services like Media Player and
+a Wallpaper changing service."
+  }
+]
